@@ -4,15 +4,7 @@
 Kraf Technologies is an innovative software and B2B development company dedicated to building cutting-edge solutions leveraging AI, ML, and modern web technologies. Our mission is to create scalable and efficient digital products that enhance business operations and user experiences.
 
 ## 🌟 Our Vision
-We aim to revolutionize digital solutions with advanced technology, providing seamless, efficient, and secure systems for businesses and consumers alike.
-
-## 🏆 Our Projects
-We specialize in developing intelligent software solutions. Here are some of our key projects:
-
-- **KRAFX - NFC-Based Payment System**: A secure NFC-based payment system for digital transactions.
-- **DevX - Hackathon Management Dashboard**: A platform for organizing and managing hackathons efficiently.
-- **Kraf Think 2025 - Hackathon Event**: An annual hackathon organized to foster innovation and creativity.
-- **The Emotional Intelligence Matrix**: An AI-powered tool for real-time emotion analysis and intelligent responses.
+We aim to revolutionize digital solutions with advanced technology, providing seamless, efficient, and secure systems for businesses and consumers a like.
 
 ## 🛠️ Our Services
 ### **Pioneering SaaS Solutions**
