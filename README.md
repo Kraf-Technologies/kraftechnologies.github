@@ -1,4 +1,3 @@
-```markdown
 # Kraf Technologies - Building Next-Gen Solutions
 
 ## 🚀 About Us
@@ -83,16 +82,13 @@ At Kraf Technologies, we deliver cutting-edge Software-as-a-Service solutions th
 - WAF
 
 ## 🔗 Connect With Us
-- **Website:** [Coming Soon]
-- **GitHub:** [Kraf Technologies GitHub](https://github.com/kraf-technologies)
-- **LinkedIn:** [Kraf Technologies](#)
-- **Email:** contact@kraftechnologies.com
+- **Website:** https://www.kraftechnologies.com/
+- **GitHub:** [Kraf Technologies GitHub](https://github.com/Kraf-Technologies)
+- **LinkedIn:** [Kraf Technologies](https://www.linkedin.com/company/kraftechnologies)
+- **Email:** info@kraftechnologies.com
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-📌 *Kraf Technologies - Innovating for a Smarter Future!*
-```
+📌 *Kraf Technologies - Building Next-Gen Solutions!*
 
